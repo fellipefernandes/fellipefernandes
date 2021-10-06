@@ -7,4 +7,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [email](mailto:fellipebxc@gmail.com)
 - 😄 Pronouns: He/Him
--->
