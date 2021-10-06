@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science and Analytics
 - 🤔 I’m looking for help with R and Python
 - 💬 Ask me about anything
-- 📫 How to reach me: [Here](mailto:fellipebxc@gmail.com)
+- 📫 How to reach me: [email](mailto:fellipebxc@gmail.com)
 - 😄 Pronouns: He/Him
 -->
